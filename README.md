@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Salut, je suis Babacar DIOP
 
-<!--
-**Babacd/Babacd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Technicien Supérieur en Génie Logiciel & Administration Réseaux**  
+💻 Développement Web | Mobile | Réseaux & Sécurité  
+🚀 Passionné par Cyber-sécurité et la création de solutions innovantes pour les entreprises  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences
+- **Langages** : Java, JavaScript, TypeScript, Dart, SQL  
+- **Frameworks & Outils** : Flutter, Node.js, NestJS, React, Tailwind CSS, PostgreSQL  
+- **Réseaux & Sécurité** : Linux, Proxy (Squid), VPN (OpenVPN), Sécurité réseau  
+
+---
+
+## 📂 Projets phares
+- 🏢 [PGI SaaS pour PME sénégalaises](Lien_GitHub)  
+- 📱 [Wave Clone – Flutter](Lien_GitHub)  
+- 🌐 [API NestJS + PostgreSQL](Lien_GitHub)  
+- 🔒 [Serveur Proxy avec Squid](Lien_GitHub)  
+
+---
+
+
+## 📫 Me contacter
+- Email : **(babacd345@gmail.com)**  
+- LinkedIn : [babacd345](https://www.linkedin.com/in/babacd345/)  
