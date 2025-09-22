@@ -2,7 +2,7 @@
 
 🎓 **Technicien Supérieur en Génie Logiciel & Administration Réseaux**  
 💻 Développement Web | Mobile | Réseaux & Sécurité  
-🚀 Passionné par Cyber-sécurité et la création de solutions innovantes pour les entreprises  
+🚀 Passionné par Cyber-sécurité et la création de solutions innovantes pour tous
 
 ---
 
